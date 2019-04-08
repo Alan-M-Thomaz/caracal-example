@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.5.1'
+ruby '2.3.3'
 
 
 #----------------------------------------------------
@@ -19,3 +19,4 @@ gem 'puma'
 # caracal
 gem 'caracal'
 gem 'caracal-rails'
+gem 'rubyzip', '1.1.2'
